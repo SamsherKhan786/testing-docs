@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ci:contentItem xmlns:ci="urn:mtpg-com:mtps/2004/1/item">
+  <c:common cat:commonFormat="Mtps.Search" xmlns="http://www.w3.org/1999/xhtml" xmlns:cat="urn:mtpg-com:mtps/2004/1/common/category" xmlns:c="urn:mtpg-com:mtps/2004/1/common"><se:search xmlns:se="urn:mtpg-com:mtps/2004/1/search"><meta name="Title" content="Compilers - Managed Profile-Guided Optimization Using Background JIT" /><meta name="description" content="" /><meta name="PTSearchTitle" content="Compilers - Managed Profile-Guided Optimization Using Background JIT" /><meta name="MSHAttr" content="PreferredSiteName:MSDN" /><meta name="MSHAttr" content="PreferredLib:magazine" /><meta name="MSHAttr" content="PreferredSiteName:MSDN" /><meta name="MSHAttr" content="PreferredLib:magazine" /><meta name="TOCTitle" content="Category - Title" /><meta name="PtEpx" content="true" /><meta name="robots" content="index, follow" /></se:search></c:common>
+  <c:common cat:commonFormat="Mtps.Links" xmlns="http://www.w3.org/1999/xhtml" xmlns:cat="urn:mtpg-com:mtps/2004/1/common/category" xmlns:c="urn:mtpg-com:mtps/2004/1/common"><li:links xmlns:li="urn:mtpg-com:mtps/2004/1/links"><li:link name="mt149362?author=Author Name" /></li:links></c:common>
+  <k:key xmlns:k="urn:mtpg-com:mtps/2004/1/key">
+    <k:contentId>mt683795</k:contentId>
+    <k:locale>en-us</k:locale>
+    <k:contentGuid>fff5088a-2ca4-4dcf-88e4-31452597607b</k:contentGuid>
+    <k:version>MSDN.10</k:version>
+    <k:assetId>fff5088a-2ca4-4dcf-88e4-31452597607b</k:assetId>
+  </k:key>
+  <s:systemInfo xmlns:cat="urn:mtpg-com:mtps/2004/1/system/category" s:revision="1" xmlns:s="urn:mtpg-com:mtps/2004/1/system">
+    <cat:contentType>mtpsPagePlanner</cat:contentType>
+    <cat:displayType>HomePageType</cat:displayType>
+    <s:title>Compilers - Managed Profile-Guided Optimization Using Background JIT</s:title>
+    <s:tocTitle>Compilers - Managed Profile-Guided Optimization Using Background JIT</s:tocTitle>
+    <s:publishDate>2016-02-12T20:38:50Z</s:publishDate>
+  </s:systemInfo>
+  <p:primary pcat:primaryFormat="Mtps.PagePlanner" xmlns="http://www.w3.org/1999/xhtml" xmlns:mtps="http://msdn2.microsoft.com/mtps" xmlns:asp="http://msdn2.microsoft.com/aspnet" xmlns:pcat="urn:mtpg-com:mtps/2004/1/primary/category" xmlns:p="urn:mtpg-com:mtps/2004/1/primary"><page:data xmlns:page="urn:mtpg-com:mtps/2004/1/page">
+  <page:contentset name="Compilers - Managed Profile-Guided Optimization Using Background JIT" width="100" CSSClass="mag" sizetype="Percentage">
+    <page:contentset name="header" SetType="XHTML" width="100" CSSClass="allWidth issueHeader" sizetype="Percentage">
+      <Title>XHTML</Title>
+      <Contents><hr xmlns="http://www.w3.org/1999/xhtml" /><div class="issueDate" xmlns="http://www.w3.org/1999/xhtml">March 2016</div><div class="issueNum" xmlns="http://www.w3.org/1999/xhtml">Volume 31 Number 3</div></Contents>
+    </page:contentset>
+    <page:contentset name="article" width="100" CSSClass="article" sizetype="Percentage">
+      <page:contentset name="Title" SetType="XHTML" width="100" CSSClass="FeatureTitle" sizetype="Percentage">
+        <Title>New XHTML Block</Title>
+        <Contents><h1 xmlns="http://www.w3.org/1999/xhtml">Category - Title</h1><p xmlns="http://www.w3.org/1999/xhtml">By <a href="mt149362?author=Author Name">Author Name</a> | Month Year | Get the Code: <a href="#">C#</a>   <a href="#">VB</a></p></Contents>
+      </page:contentset>
+      <page:contentset name="Intro" SetType="XHTML" width="100" sizetype="Percentage">
+        <Title>New XHTML Block</Title>
+        <Contents></Contents>
+      </page:contentset>
+      <page:contentset name="About the Author" SetType="XHTML" width="100" sizetype="Percentage">
+        <Title>New XHTML Block</Title>
+        <Contents><hr xmlns="http://www.w3.org/1999/xhtml" /><div xmlns="http://www.w3.org/1999/xhtml">About the Author</div></Contents>
+      </page:contentset>
+    </page:contentset>
+    <page:contentset name="includes" SetType="Behavior" width="100" sizetype="Percentage">
+      <Behavior>ContentInclude</Behavior>
+      <Failsafe><p xmlns="http://www.w3.org/1999/xhtml">fail</p></Failsafe>
+      <Properties>
+        <Property>
+          <Name>Identifier</Name>
+          <Value>mt653590</Value>
+        </Property>
+        <Property>
+          <Name>Locale</Name>
+          <Value>en-us</Value>
+        </Property>
+      </Properties>
+    </page:contentset>
+  </page:contentset>
+  <page:unassignedcontent>
+    <page:contentset name="Unassigned Content" width="100" sizetype="Percentage" />
+  </page:unassignedcontent>
+</page:data></p:primary>
+  <p:primary pcat:primaryFormat="Mtps.Xhtml" xmlns="http://www.w3.org/1999/xhtml" xmlns:mtps="http://msdn2.microsoft.com/mtps" xmlns:asp="http://msdn2.microsoft.com/aspnet" xmlns:pcat="urn:mtpg-com:mtps/2004/1/primary/category" xmlns:p="urn:mtpg-com:mtps/2004/1/primary"><div class="navpage"><div class="mag"><div class="allWidth issueHeader" id=""><hr /><div class="issueDate">March 2016</div><div class="issueNum">Volume 31 Number 3</div></div><div class="article"><div class="FeatureTitle" id=""><h1>Category - Title</h1><p>By <mtps:InstrumentedLink runat="server" NavigateUrl="mt149362?author=Author Name" xmlns:mtps="http://msdn2.microsoft.com/mtps">Author Name</mtps:InstrumentedLink> | Month Year | Get the Code: <a href="#" xmlns:ms="urn:schemas-microsoft-com:xslt">C#</a>   <a href="#" xmlns:ms="urn:schemas-microsoft-com:xslt">VB</a></p></div><hr /><div>About the Author</div></div><mtps:ContentInclude Identifier="mt653590" Locale="en-us" runat="server" xmlns:mtps="http://msdn2.microsoft.com/mtps" /></div></div></p:primary>
+  <p:primary pcat:primaryFormat="Mtps.Code" xmlns="http://www.w3.org/1999/xhtml" xmlns:mtps="http://msdn2.microsoft.com/mtps" xmlns:asp="http://msdn2.microsoft.com/aspnet" xmlns:pcat="urn:mtpg-com:mtps/2004/1/primary/category" xmlns:p="urn:mtpg-com:mtps/2004/1/primary"><code></code></p:primary>
+</ci:contentItem>
